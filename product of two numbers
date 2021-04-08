@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+	double a,b;
+   cout<<"Enter two numbers: "<<endl;
+	cin>>a;
+	cin>>b;
+	cout<<"Product ="<<a*b<<endl;
+	return 0;
+}
